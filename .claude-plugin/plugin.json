@@ -1,0 +1,10 @@
+{
+  "name": "atomic-commits",
+  "version": "1.0.0",
+  "description": "Guides agents to commit early and often in atomic increments, separate feature/refactor/cleanup work, and keep pull requests around ~200 lines",
+  "author": {
+    "name": "thoughtbot"
+  },
+  "keywords": ["git", "commits", "workflow", "pull-requests"],
+  "license": "MIT"
+}
