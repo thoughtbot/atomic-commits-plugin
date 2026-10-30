@@ -17,11 +17,11 @@ Every commit must:
 
 ## Installation
 
-Install via the thoughtbot marketplace:
+Install via the [thoughtbot marketplace](https://github.com/thoughtbot/skills):
 
 ```
-/plugin marketplace add thoughtbot/thoughtbot-plugins
-/plugin install atomic-commits@thoughtbot-plugins
+/plugin marketplace add thoughtbot/skills
+/plugin install atomic-commits@skills
 ```
 
 Or add directly:
